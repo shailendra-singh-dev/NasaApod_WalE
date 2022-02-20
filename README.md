@@ -18,10 +18,10 @@ The APOD image loads fully on the screen Then: The user should be able to see th
 image without distortion or clipping
 
 Improvement Areas : Caching could have been introduced.
-                    Zoomage(For pinch-to-zoom)
-					Landscape 
-					Share images with others
-					Export images to other apps
+                    , Zoomage(For pinch-to-zoom).
+		    , Landscape .
+		    , Share images with others.
+		    , Export images to other apps.
 					
 Library used: Daggar,Viewmodel,Retrofit,Room,Glide,Coroutine 
 Architecture: MVVM
